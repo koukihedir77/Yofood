@@ -1,0 +1,54 @@
+.hedir{
+
+    display: flex;
+  
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 70px
+
+}
+
+#contact{
+
+
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: blueviolet;
+}
+#hedir{
+
+
+text-align: center;
+color: blueviolet;
+display: flex;
+flex-wrap: wrap;
+margin-left: 100px;
+
+}
+.style{
+
+color: aqua;
+
+}
+#text{
+    text-align: center;
+    color: blueviolet;
+    margin-left: 100px;
+}
+#css{
+
+    text-align: center;
+    color: blueviolet;
+    margin-left: 100px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+
+
+}
+    
